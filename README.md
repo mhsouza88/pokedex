@@ -13,7 +13,7 @@
 </p><br/>
  
  
- <h2> 🔗ﾠLink (surge)</h2>
+ <h2> 🔗ﾠLink</h2>
  <p>- <a href="http://pokedex.mhsouza88.com/" target="_blank">Pokédex</a></p><br/>
 
 
