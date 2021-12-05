@@ -14,7 +14,7 @@
  
  
  <h2> 🔗ﾠLink (surge)</h2>
- <p>- <a href="http://small-market.surge.sh/" target="_blank">Pokédex</a></p><br/>
+ <p>- <a href="http://pokedex.mhsouza88.com/" target="_blank">Pokédex</a></p><br/>
 
 
 <h2> 🛠️ﾠTecnologias</h2>
