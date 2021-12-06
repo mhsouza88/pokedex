@@ -95,10 +95,6 @@ $ cd ./pokedex
 
 # Instale as dependências
 $ npm install
-$ npm install react-router-dom
-$ npm install axios
-$ npm install @mui/material @emotion/react @emotion/styled
-$ npm install @mui/material @mui/styled-engine-sc styled-components
 
 # Para iniciar o projeto
 $ npm run start
